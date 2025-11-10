@@ -18,7 +18,7 @@ Mi enfoque principal es crear soluciones funcionales, claras y orientadas al apo
 
 | Pantalla principal | Registro de muestra | Exportación a CSV |
 |-------------------|---------------------|-------------------|
-| ![Pantalla principal](img/pantalla_principal.jpg) | ![Registro de muestra](img/registro_muestra.jpg) | ![Exportar CSV](img/exportar_csv.jpg) |
+| ![Pantalla principal](img/RegistroMuestras.png) | ![Registro de muestra](img/MuestrasGuardadas.jpg) | ![Exportar CSV](img/Datos en CSV.png) |
  |
 | **Página Web MDE360Tour** | Sitio web informativo desarrollado y publicado. | HTML, CSS, JS | https://mde360tour.netlify.app |
 
