@@ -14,7 +14,12 @@ Mi enfoque principal es crear soluciones funcionales, claras y orientadas al apo
 | Proyecto | Descripción | Tecnologías | Enlace |
 |---------|-------------|-------------|--------|
 | **Dashboard de Análisis de Cáncer** | Visualización interactiva de prevalencia, tipos y distribución por sexo. Diseño de reportes claros para consulta. | Power BI, Excel | *(Próximo: lo subiremos aquí)* |
-| **App Offline para Recolección de Datos** | Aplicación para toma de muestras en campo sin internet, con exportación a CSV. | HTML, JS, CSV | *(Próximo: lo subiremos aquí)* |
+| **App Offline para Recolección de Datos** | Aplicación para toma de muestras en campo sin internet, con exportación a CSV. | HTML, JS, CSV | ## 📷 Evidencias de funcionamiento
+
+| Pantalla principal | Registro de muestra | Exportación a CSV |
+|-------------------|---------------------|-------------------|
+| ![Pantalla principal](img/pantalla_principal.jpg) | ![Registro de muestra](img/registro_muestra.jpg) | ![Exportar CSV](img/exportar_csv.jpg) |
+ |
 | **Página Web MDE360Tour** | Sitio web informativo desarrollado y publicado. | HTML, CSS, JS | https://mde360tour.netlify.app |
 
 ---
