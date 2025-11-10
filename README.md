@@ -12,11 +12,10 @@ Mi enfoque principal es crear soluciones funcionales, claras y orientadas al apo
 ## 🚀 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|--------|
+|---------|-------------|-------------|
 | **Dashboard de Análisis de Cáncer** | Visualización interactiva de prevalencia, tipos y distribución por sexo. Diseño de reportes claros para consulta. | Power BI, Excel |
-| **App Offline para Recolección de Datos** | Aplicación para toma de muestras en campo sin internet, con exportación a CSV. | HTML, JS, CSV | 
-
-| **Página Web MDE360Tour** | Sitio web informativo desarrollado y publicado. | HTML, CSS, JS | https://mde360tour.netlify.app |
+| **App Offline para Recolección de Datos** | Aplicación para toma de muestras en campo sin internet, con exportación a CSV. | HTML, JS, CSV |
+| **Página Web MDE360Tour** ([mde360tour.netlify.app](https://mde360tour.netlify.app)) | Sitio web informativo desarrollado y publicado. | HTML, CSS, JS |
 
 ---
 
@@ -43,4 +42,5 @@ Mi enfoque principal es crear soluciones funcionales, claras y orientadas al apo
 ---
 
 ## 📫 Contacto
-**Email:** edu.mafe2005@gmail.com  
+**Email:** edu.mafe2005@gmail.com
+
